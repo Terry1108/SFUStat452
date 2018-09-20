@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Name1, Name2 and Name3"
+author: "Jie Chen"
 date: '2018-09-21'
 output: html_document
 ---
@@ -11,7 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Question 1 (Chapter 2, #1, 8 marks)
 
-(a) <your answer here>
+(a) < Flexible is better, because it 
+can use the abundance of data points (large $n$) to give a good fit.>
 
 (b) <etc.>
 
